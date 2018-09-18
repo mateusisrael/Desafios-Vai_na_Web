@@ -1,0 +1,32 @@
+*{margin: 0; padding: 0;}
+h1{font-size: 1.9em; color: #fff;}
+h2{font-size: 3.0em; color: #1F1F1F; margin-top:20px;}
+img{width: 1009px;}
+p{margin-bottom: 100px; color: #fff; font-size: 1.4em}
+.icons{width: 50px;margin-left: 8px;}
+
+header{
+    width: 100%;
+    height: 70px;
+    background-color: #222D3A;
+    display: flex; justify-content: center; align-items: center;
+}
+
+main{
+    display: flex; justify-content: center; flex-direction: column; align-items: center;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+
+}
+
+section{
+    background-color: #37485C;
+    width: 900px;
+    height: 100%;
+    margin-bottom: 30px;
+    text-align: center;
+    display: flex; align-items: center; justify-content: center; flex-direction: column;
+}   
+
+
